@@ -46,6 +46,14 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📊  Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jinniecode&bg_color=60,ffffff,ffe852&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinniecode&layout=compact&bg_color=60,ffffff,ffe852&title_color=000000&text_color=000000"
-           /> </div> 
+           /> </div>
+        <br>
+        <br>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ☄️  hits </h2> <br> 
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jinniecode/jinniecode&count_bg=%23E6DFA4&title_bg=%23EAD600&icon=&icon_color=%23FFF449&title=hits&edge_flat=false"/></a>
+        </div>
+        <br>
+        <br>
     </div>
     
